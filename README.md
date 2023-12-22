@@ -1,6 +1,6 @@
 - 👋 olá sou Jefferson
 - 👀 Eu sou Brasileiro
-- 🌱 Atualmente esrou aprendendo Engenharia de Software
+- 🌱 Atualmente estou aprendendo Engenharia de Software
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
